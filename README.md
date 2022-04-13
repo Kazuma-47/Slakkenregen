@@ -1,4 +1,4 @@
-# Slakkenregen-Game Media College jaar 2 periode 1
+# Slakkenregen-Game Media College jaar 1 periode 4
 
 
 ## Game info: 
