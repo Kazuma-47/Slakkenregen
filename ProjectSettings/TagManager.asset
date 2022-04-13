@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Meteor
+  - Slowtrap
+  - Conversation
+  - NameTag
+  - SpawnPoint
+  - Despawn
+  - DialoguePicture
+  - IntroTrigger
+  - UpWall
+  - Npc
+  - Shop
+  - DespawnBullet
+  - SnailMoving
+  - SnailShooting
+  - Boss
+  - BossDialogue
+  - BossDialogue1
+  - pausescreen
+  - healthbar
+  - bounce
+  - Snail
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Postprocessing
+  - EnemyBullet
+  - FriendlyBullet
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
