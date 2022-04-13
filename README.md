@@ -1,10 +1,10 @@
 # Slakkenregen-Game Media College jaar 1 periode 4
 
-
+contributie: UI, Shop, Powerups<br>
 ## Game info: 
 <br>
   Er is een slakken invatie. jij en je team genoot Kap zijn de ruimte in getuurd om de slakken tegen te houden. over leef de waves en versla de slakken baas
-<br> en red de wereld
+  en red de wereld
   
   <br>
 
